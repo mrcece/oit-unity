@@ -1,5 +1,33 @@
 # Changelog
 
+## [6.0.0](https://github.com/mrcece/oit-unity/compare/v5.0.1...v6.0.0) (2024-05-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update LICENSE ([#25](https://github.com/mrcece/oit-unity/issues/25))
+* :fire: remove deprecated image effect implementation ([#23](https://github.com/mrcece/oit-unity/issues/23))
+
+### Features
+
+* UniversalRP Scene View ([#22](https://github.com/mrcece/oit-unity/issues/22)) ([6fb79a9](https://github.com/mrcece/oit-unity/commit/6fb79a906a67ca9f5323488241df82cabc4cfdb0))
+
+
+### Bug Fixes
+
+* add missing post process effect to samples ([#17](https://github.com/mrcece/oit-unity/issues/17)) ([7984a98](https://github.com/mrcece/oit-unity/commit/7984a98e737c2abd36fc14f6dcfc2c40d07292bc))
+* **URP:** fix missing shader on URP build ([#30](https://github.com/mrcece/oit-unity/issues/30)) ([91cdcf8](https://github.com/mrcece/oit-unity/commit/91cdcf8610cfaf04e6b4c2c7e55d7abb054d4066))
+
+
+### Documentation
+
+* Update LICENSE ([#25](https://github.com/mrcece/oit-unity/issues/25)) ([851f89b](https://github.com/mrcece/oit-unity/commit/851f89bc361c258b44c319731ee363ecf130cd15))
+
+
+### Code Refactoring
+
+* :fire: remove deprecated image effect implementation ([#23](https://github.com/mrcece/oit-unity/issues/23)) ([0d4459c](https://github.com/mrcece/oit-unity/commit/0d4459c94866c500f2bd6a64d600ce9738569635))
+
 ## [5.0.1](https://github.com/happy-turtle/oit-unity/compare/v5.0.0...v5.0.1) (2024-04-26)
 
 
